@@ -4,7 +4,7 @@
 
 Wanna see something cute?
 
-![cute red panda](https://raw.githubusercontent.com/eankeen/panda-land/master/panda.jpg)
+![cute red panda](./redpanda3.jpg)
 
 Red Pandas! This guy be climbing trees _and_ writing code!
 
