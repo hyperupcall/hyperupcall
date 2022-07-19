@@ -4,7 +4,7 @@
 
 Wanna see something cute?
 
-![A super cute red panda walking on a branch](./redpanda3.jpg)
+![A super cute red panda walking on a tree branch](./redpanda3.jpg)
 
 Red Pandas! This guy be climbing trees _and_ writing code!
 
