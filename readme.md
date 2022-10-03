@@ -23,8 +23,8 @@ I also like contributing to Open Source! Some recent contributions include:
 
 - 20+ [contributions](https://github.com/SchemaStore/schemastore/pulls?q=is%3Apr+author%3Ahyperupcall+sort%3Aupdated-desc) to [SchemaStore](https://github.com/SchemaStore/schemastore)
 - 7+ [contributions](https://github.com/typescript-eslint/tslint-to-eslint-config/pulls?q=is%3Apr+author%3Ahyperupcall+sort%3Aupdated-desc) to [tslint-to-eslint-config](https://github.com/typescript-eslint/tslint-to-eslint-config)
+- 3+ [contributions](https://github.com/xournalpp/xournalpp/pulls?q=is%3Apr+author%3Ahyperupcall+sort%3Aupdated-desc) to [xournalpp](https://github.com/xournalpp/xournalpp)
 - 2+ [contributions](https://github.com/import-js/eslint-plugin-import/pulls?q=is%3Apr+author%3Ahyperupcall+is%3Aclosed+sort%3Aupdated-desc) to [eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
-- 1+ [contributions](https://github.com/xournalpp/xournalpp/pulls?q=is%3Apr+author%3Ahyperupcall+sort%3Aupdated-desc) to [xournalpp](https://github.com/xournalpp/xournalpp)
 
 
 Check out my projects if you wish, and thankies for visiting my profile! ^_^
