@@ -1,6 +1,4 @@
-# Edwin Kofler
-
-👋 Haii!!
+# 👋 Haii!!
 
 Wanna see something cute?
 
