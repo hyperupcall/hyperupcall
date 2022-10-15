@@ -11,7 +11,7 @@ About me, I mostly program in Bash and Go. Recently, I've been working on:
 - A Bash package manager called [Basalt](https://github.com/hyperupcall/basalt)
   - [bash-object](https://github.com/hyperupcall/bash-object), a _Bash library_ for managing heterogenous data hierarchies
   - [bash-json](https://github.com/hyperupcall/bash-json), a _Bash library_ for parsing JSON
-  - [bash-term](https://github.com/hyperupcall/bash-term), a _Bash library_ for printing ANSI escape sequences
+  - [bash-term](https://github.com/hyperupcall/bash-term), a _Bash library_ for terminal escape sequences
   - [Bake](https://github.com/hyperupcall/bake), a Bash-based make alternative
   - [Hookah](https://github.com/hyperupcall/hookah), an elegantly minimal Git hooks solution written in Bash
 - [Woof](https://github.com/hyperupcall/woof), a language agnostic version manager (written in Bash)
@@ -19,10 +19,10 @@ About me, I mostly program in Bash and Go. Recently, I've been working on:
 
 I also like contributing to Open Source! Some recent contributions include:
 
-- 23+ [contributions](https://github.com/SchemaStore/schemastore/pulls?q=is%3Apr+author%3Ahyperupcall+sort%3Aupdated-desc) to [SchemaStore](https://github.com/SchemaStore/schemastore)
-- 8+ [contributions](https://github.com/xournalpp/xournalpp/pulls?q=is%3Apr+author%3Ahyperupcall+sort%3Aupdated-desc) to [xournalpp](https://github.com/xournalpp/xournalpp)
-- 7+ [contributions](https://github.com/typescript-eslint/tslint-to-eslint-config/pulls?q=is%3Apr+author%3Ahyperupcall+sort%3Aupdated-desc) to [tslint-to-eslint-config](https://github.com/typescript-eslint/tslint-to-eslint-config)
-- 2+ [contributions](https://github.com/import-js/eslint-plugin-import/pulls?q=is%3Apr+author%3Ahyperupcall+is%3Aclosed+sort%3Aupdated-desc) to [eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
+- 23+ [contributions](https://github.com/SchemaStore/schemastore/pulls?q=is%3Apr+author%3Ahyperupcall+sort%3Aupdated-desc) to [SchemaStore](https://github.com/SchemaStore/schemastore), a collection of JSON schemas for widely-used programs
+- 10+ [contributions](https://github.com/xournalpp/xournalpp/pulls?q=is%3Apr+author%3Ahyperupcall+sort%3Aupdated-desc) to [xournalpp](https://github.com/xournalpp/xournalpp), a stylus-based, note-taking application written with C++ and GTK3
+- 7+ [contributions](https://github.com/typescript-eslint/tslint-to-eslint-config/pulls?q=is%3Apr+author%3Ahyperupcall+sort%3Aupdated-desc) to [tslint-to-eslint-config](https://github.com/typescript-eslint/tslint-to-eslint-config), a utility for migrating configuration from [TSLint](https://github.com/palantir/tslint) to [ESLint](https://github.com/eslint/eslint)
+- 2+ [contributions](https://github.com/import-js/eslint-plugin-import/pulls?q=is%3Apr+author%3Ahyperupcall+is%3Aclosed+sort%3Aupdated-desc) to [eslint-plugin-import](https://github.com/import-js/eslint-plugin-import), an ESLint plugin with rules for managing [ECMAScript 2015-style](https://tc39.es/ecma262/multipage/ecmascript-language-scripts-and-modules.html#sec-imports) import statements
 
 
-Check out my projects if you wish, and thankies for visiting my profile! ^_^
+Check out my projects if you wish, and thanksies for visiting my profile! ^_^
