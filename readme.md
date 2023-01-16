@@ -19,10 +19,10 @@ About me, I mostly program in Bash and Go. Recently, I've been working on:
 
 I also like contributing to Open Source! Some include:
 
-- 37+ [contributions](https://github.com/SchemaStore/schemastore/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc) to [SchemaStore](https://github.com/SchemaStore/schemastore), a collection of JSON schemas for widely-used programs
-- 16+ [contributions](https://github.com/xournalpp/xournalpp/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc) to [xournalpp](https://github.com/xournalpp/xournalpp), a stylus-based, note-taking application written with C++ and GTK3
+- 44+ [contributions](https://github.com/SchemaStore/schemastore/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc) to [SchemaStore](https://github.com/SchemaStore/schemastore), a collection of JSON schemas for widely-used programs
+- 22+ [contributions](https://github.com/xournalpp/xournalpp/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc) to [xournalpp](https://github.com/xournalpp/xournalpp), a stylus-based, note-taking application written with C++ and GTK3
+- 13+ [contributions](https://github.com/asdf-vm/asdf/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc) to [asdf](https://github.com/asdf-vm/asdf), an extendable, multi-language version manager
 - 9+ [contributions](https://github.com/typescript-eslint/tslint-to-eslint-config/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc) to [tslint-to-eslint-config](https://github.com/typescript-eslint/tslint-to-eslint-config), a utility for migrating configuration from [TSLint](https://github.com/palantir/tslint) to [ESLint](https://github.com/eslint/eslint)
-- 7+ [contributions](https://github.com/asdf-vm/asdf/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc) to [asdf](https://github.com/asdf-vm/asdf), an extendable, multi-language version manager
 - 2+ [contributions](https://github.com/import-js/eslint-plugin-import/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc) to [eslint-plugin-import](https://github.com/import-js/eslint-plugin-import), an ESLint plugin with rules for managing [ECMAScript 2015-style](https://tc39.es/ecma262/multipage/ecmascript-language-scripts-and-modules.html#sec-imports) import statements
 
 
