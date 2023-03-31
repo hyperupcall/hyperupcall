@@ -6,7 +6,7 @@ Wanna see something cute?
 
 Red Pandas! This guy be climbing trees _and_ writing code!
 
-About me, I mostly program in Bash and Go. Recently, I've been working on:
+Recently, I've been working on:
 
 - A Bash package manager called [Basalt](https://github.com/hyperupcall/basalt)
   - [bash-object](https://github.com/hyperupcall/bash-object), a _Bash library_ for managing heterogenous data hierarchies
