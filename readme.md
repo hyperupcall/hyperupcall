@@ -17,7 +17,7 @@ About me, I mostly program in Bash and Go. Recently, I've been working on:
 - [Woof](https://github.com/hyperupcall/woof), a language agnostic version manager (written in Bash)
 - [redpanda](https://github.com/hyperupcall/redpanda), a tool for cross-repository refactoring 
 
-I also like contributing to Open Source! Major contributions include:
+I also like contributing to Open Source! Some include:
 
 - 54+ [contributions](https://github.com/SchemaStore/schemastore/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc) to [SchemaStore](https://github.com/SchemaStore/schemastore), a collection of JSON schemas for widely-used programs
 - 41+ [contributions](https://github.com/asdf-vm/asdf/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc) to [asdf](https://github.com/asdf-vm/asdf), an extendable, multi-language version manager
