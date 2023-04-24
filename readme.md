@@ -1,4 +1,4 @@
-# 👋 Haii!!
+# 👋 Hi!
 
 Wanna see something cute?
 
@@ -15,7 +15,6 @@ Recently, I've been working on:
   - [Bake](https://github.com/hyperupcall/bake), a Bash-based make alternative
   - [Hookah](https://github.com/hyperupcall/hookah), an elegantly minimal Git hooks solution written in Bash
 - [Woof](https://github.com/hyperupcall/woof), a language agnostic version manager (written in Bash)
-- [redpanda](https://github.com/hyperupcall/redpanda), a tool for cross-repository refactoring 
 
 I also like contributing to Open Source! Some include:
 
