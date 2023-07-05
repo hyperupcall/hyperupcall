@@ -14,8 +14,17 @@ Recently, I've been working on:
   - [bash-json](https://github.com/bash-bastion/bash-json), a _Bash library_ for parsing JSON
   - [bash-term](https://github.com/bash-bastion/bash-term), a _Bash library_ for terminal escape sequences
   - [Bake](https://github.com/hyperupcall/bake), a Bash-based make alternative
-  - [Hookah](https://github.com/bash-bastion/hookah), an elegantly minimal Git hooks solution (written in Bash)
 - [Woof](https://github.com/version-manager/woof), a language agnostic version manager (written in Bash)
+
+Most of my code lives in external organizations. Major ones include:
+
+- [quasipanacea](https://github.com/quasipanacea) is a personal knowledge management system
+- [bash-bastion](https://github.com/bash-bastion) holds all my public Bash projects
+- [version-manager](https://github.com/version-manager) contains projects and plugins for my personal tool/language version manager
+- [fox-land](https://github.com/fox-land) has repositories for tool configuration 
+- [fox-templates](https://github.com/fox-templates) holds my project templates
+- [fox-archives](https://github.com/fox-archives) contains ~100 projects that I have archived over the years
+- [fox-forks](https://github.com/fox-forks) has all my forks of external projects
 
 I also like contributing to open source! Some contributions include:
 
