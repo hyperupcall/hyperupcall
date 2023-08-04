@@ -21,7 +21,7 @@ Most of my code lives in separate GitHub organizations. Major ones include:
 - [quasipanacea](https://github.com/quasipanacea) holds my personal knowledge management system
 - [bash-bastion](https://github.com/bash-bastion) holds all my Bash projects
 - [version-manager](https://github.com/version-manager) holds my personal tool/language version manager and associated plugins
-- [fox-land](https://github.com/fox-land) holds my personal extensions and configuration presets for variuos tools 
+- [fox-land](https://github.com/fox-land) holds my personal extensions and configuration presets for variuos tools
 - [fox-templates](https://github.com/fox-templates) holds my project templates
 - [fox-archives](https://github.com/fox-archives) holds ~100 projects that I have archived over the years
 - [fox-forks](https://github.com/fox-forks) holds my forks of external repositories
