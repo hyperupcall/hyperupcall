@@ -9,7 +9,7 @@ Red Pandas! This guy be climbing trees _and_ writing code!
 Recently, I've been working on:
 
 - A PKM (personal knowledge management) system called [Quasipanacea](https://github.com/quasipanacea)
-- [asdf](https://asdf-vm.com), a multiple runtime version manager
+- [asdf](https://github.com/asdf-vm/asdf), a multiple runtime version manager
 - A Bash package manager called [Basalt](https://github.com/hyperupcall/basalt)
   - [bash-object](https://github.com/bash-bastion/bash-object), a _Bash library_ for managing heterogenous data hierarchies
   - [bash-json](https://github.com/bash-bastion/bash-json), a _Bash library_ for parsing JSON
