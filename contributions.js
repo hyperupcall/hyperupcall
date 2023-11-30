@@ -174,6 +174,9 @@ This list is automatically generated. It is ordered by number of pull requests.\
 	outer: for (const [repo, prs] of contributionsObj) {
 		for (const nots of [
 			'JasperNelson',
+			'hyperupcall',
+			'eankeen',
+			'eshsrobotics',
 			'orangeyiestfruit',
 			'fox-',
 			'rapidotapp',

@@ -1,15 +1,17 @@
+<!-- markdownlint-disable-next-line no-trailing-punctuation -->
 # 👋 Hellooooo!
 
 Wanna see something cute?
 
-![A super cute red panda walking on a tree branch](./redpanda3.jpg)
+![A super cute red panda walking on a tree branch in a forest](./redpanda3.jpg)
 
 Red Pandas! This guy be climbing trees _and_ writing code!
 
 Recently, I've been working on:
 
 - [SchemaStore](https://github.com/schemastore/SchemaStore), a collection of JSON schema files
-- [asdf](https://github.com/asdf-vm/asdf), a multiple runtime version manager
+  - [jsonschema-extractor](https://github.com/fox-projects/jsonschema-extractor), a tool to extract JSON schemas from your favorite software
+- [tj/git-extras](https://github.com/tj/git-extras), a collection of helpful git commands
 - A PKM (personal knowledge management) system called [Quasipanacea](https://github.com/quasipanacea)
 - A Bash package manager called [Basalt](https://github.com/hyperupcall/basalt)
   - [bash-object](https://github.com/bash-bastion/bash-object), a _Bash library_ for managing heterogenous data hierarchies
@@ -17,6 +19,7 @@ Recently, I've been working on:
   - [bash-term](https://github.com/bash-bastion/bash-term), a _Bash library_ for terminal escape sequences
   - [Bake](https://github.com/hyperupcall/bake), a Bash-based make alternative
 - [Woof](https://github.com/version-manager/woof), a language agnostic version manager (written in Bash)
+- [vscode-assorted-languages](https://github.com/fox-projects/vscode-assorted-languages), a [VSCode extension](https://marketplace.visualstudio.com/items?itemName=EdwinKofler.vscode-assorted-languages) that provides syntax highlighting for syntaxes that are individually rare, but not uncommon in aggregate
 
 Most of my code lives in separate GitHub organizations. Important ones include:
 
@@ -27,13 +30,16 @@ Most of my code lives in separate GitHub organizations. Important ones include:
 - [fox-projects](https://github.com/fox-projects) holds my projects that don't fit in the other categories
 - [fox-tools](https://github.com/fox-tools) holds my personal developer tools
 - [fox-templates](https://github.com/fox-templates) holds my project templates
-- [fox-archives](https://github.com/fox-archives) holds ~100 projects that I've archived over the years
+- [fox-archives](https://github.com/fox-archives) holds 100+ projects that I've archived over the years
 
 I also like contributing to open source! Some contributions include:
 
-- 86+ contributions ([pull requests](https://github.com/SchemaStore/schemastore/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc), [commits](https://github.com/SchemaStore/schemastore/commits?author=hyperupcall)) to [SchemaStore](https://github.com/SchemaStore/schemastore), a collection of JSON schemas for widely-used programs
-- 62+ contributions ([pull requests](https://github.com/asdf-vm/asdf/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc), [commits](https://github.com/asdf-vm/asdf/pulls/commits?author=hyperupcall)) to [asdf](https://github.com/asdf-vm/asdf), an extendable, multi-language version manager
+- 103+ contributions ([pull requests](https://github.com/SchemaStore/schemastore/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc), [commits](https://github.com/SchemaStore/schemastore/commits?author=hyperupcall)) to [SchemaStore](https://github.com/SchemaStore/schemastore), a collection of JSON schemas for widely-used programs
+- 63+ contributions ([pull requests](https://github.com/asdf-vm/asdf/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc), [commits](https://github.com/asdf-vm/asdf/pulls/commits?author=hyperupcall)) to [asdf](https://github.com/asdf-vm/asdf), an extendable, multi-language version manager
 - 25+ contributions ([pull requests](https://github.com/xournalpp/xournalpp/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc), [commits](https://github.com/xournalpp/xournalpp/commits?author=hyperupcall)) to [xournalpp](https://github.com/xournalpp/xournalpp), a stylus-based, note-taking application written with C++ and GTK3
+- 23+ contributions ([pull requests](https://github.com/tj/git-extras/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc), [commits](https://github.com/tj/git-extras/commits?author=hyperupcall)) to [tj/git-extras](https://github.com/tj/git-extras), a collection of helpful git commands
 - 6+ contributions ([pull requests](https://github.com/evilmartians/lefthook/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc), [commits](https://github.com/evilmartians/lefthook/commits?author=hyperupcall)) to [lefthook](https://github.com/evilmartians/lefthook), a Git hooks manager
+
+See a more comprehensive list at [contributions.md](./contributions.md)!
 
 Check out my projects if you wish, and thanksies for visiting my profile! ^_^
