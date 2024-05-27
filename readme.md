@@ -28,16 +28,15 @@ Most of my code lives in separate GitHub organizations. Important ones include:
 - [version-manager](https://github.com/version-manager) holds my personal tool/language version manager and associated plugins
 - [fox-land](https://github.com/fox-land) holds my personal extensions and configuration presets for various tools
 - [fox-projects](https://github.com/fox-projects) holds my projects that don't fit in the other categories
-- [fox-tools](https://github.com/fox-tools) holds my personal developer tools
 - [fox-templates](https://github.com/fox-templates) holds my project templates
 - [fox-archives](https://github.com/fox-archives) holds 100+ projects that I've archived over the years
 
 I also like contributing to open source! Some contributions include:
 
-- 103+ contributions ([pull requests](https://github.com/SchemaStore/schemastore/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc), [commits](https://github.com/SchemaStore/schemastore/commits?author=hyperupcall)) to [SchemaStore](https://github.com/SchemaStore/schemastore), a collection of JSON schemas for widely-used programs
-- 63+ contributions ([pull requests](https://github.com/asdf-vm/asdf/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc), [commits](https://github.com/asdf-vm/asdf/pulls/commits?author=hyperupcall)) to [asdf](https://github.com/asdf-vm/asdf), an extendable, multi-language version manager
+- 131+ contributions ([pull requests](https://github.com/SchemaStore/schemastore/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc), [commits](https://github.com/SchemaStore/schemastore/commits?author=hyperupcall)) to [SchemaStore](https://github.com/SchemaStore/schemastore), a collection of JSON schemas for widely-used programs
+- 69+ contributions ([pull requests](https://github.com/asdf-vm/asdf/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc), [commits](https://github.com/asdf-vm/asdf/pulls/commits?author=hyperupcall)) to [asdf](https://github.com/asdf-vm/asdf), an extendable, multi-language version manager
 - 25+ contributions ([pull requests](https://github.com/xournalpp/xournalpp/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc), [commits](https://github.com/xournalpp/xournalpp/commits?author=hyperupcall)) to [xournalpp](https://github.com/xournalpp/xournalpp), a stylus-based, note-taking application written with C++ and GTK3
-- 23+ contributions ([pull requests](https://github.com/tj/git-extras/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc), [commits](https://github.com/tj/git-extras/commits?author=hyperupcall)) to [tj/git-extras](https://github.com/tj/git-extras), a collection of helpful git commands
+- 24+ contributions ([pull requests](https://github.com/tj/git-extras/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc), [commits](https://github.com/tj/git-extras/commits?author=hyperupcall)) to [tj/git-extras](https://github.com/tj/git-extras), a collection of helpful git commands
 - 6+ contributions ([pull requests](https://github.com/evilmartians/lefthook/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc), [commits](https://github.com/evilmartians/lefthook/commits?author=hyperupcall)) to [lefthook](https://github.com/evilmartians/lefthook), a Git hooks manager
 
 See a more comprehensive list at [contributions.md](./contributions.md)!
