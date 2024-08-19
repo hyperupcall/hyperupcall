@@ -12,7 +12,6 @@ Recently, I've been working on:
 - [SchemaStore](https://github.com/schemastore/SchemaStore), a collection of JSON schema files
   - [jsonschema-extractor](https://github.com/fox-projects/jsonschema-extractor), a tool to extract JSON schemas from your favorite software
 - [tj/git-extras](https://github.com/tj/git-extras), a collection of helpful git commands
-- A PKM (personal knowledge management) system called [Quasipanacea](https://github.com/quasipanacea)
 - A Bash package manager called [Basalt](https://github.com/hyperupcall/basalt)
   - [bash-object](https://github.com/bash-bastion/bash-object), a _Bash library_ for managing heterogenous data hierarchies
   - [bash-json](https://github.com/bash-bastion/bash-json), a _Bash library_ for parsing JSON
@@ -23,17 +22,17 @@ Recently, I've been working on:
 
 Most of my code lives in separate GitHub organizations. Important ones include:
 
-- [quasipanacea](https://github.com/quasipanacea) holds my personal knowledge management system
 - [bash-bastion](https://github.com/bash-bastion) holds all my Bash projects
 - [version-manager](https://github.com/version-manager) holds my personal tool/language version manager and associated plugins
 - [fox-land](https://github.com/fox-land) holds my personal extensions and configuration presets for various tools
 - [fox-projects](https://github.com/fox-projects) holds my projects that don't fit in the other categories
+- [fox-incubating](https://github.com/fox-incubating) holds my projects that are in early development
 - [fox-templates](https://github.com/fox-templates) holds my project templates
 - [fox-archives](https://github.com/fox-archives) holds 100+ projects that I've archived over the years
 
 I also like contributing to open source! Some contributions include:
 
-- 131+ contributions ([pull requests](https://github.com/SchemaStore/schemastore/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc), [commits](https://github.com/SchemaStore/schemastore/commits?author=hyperupcall)) to [SchemaStore](https://github.com/SchemaStore/schemastore), a collection of JSON schemas for widely-used programs
+- 140+ contributions ([pull requests](https://github.com/SchemaStore/schemastore/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc), [commits](https://github.com/SchemaStore/schemastore/commits?author=hyperupcall)) to [SchemaStore](https://github.com/SchemaStore/schemastore), a collection of JSON schemas for widely-used programs
 - 69+ contributions ([pull requests](https://github.com/asdf-vm/asdf/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc), [commits](https://github.com/asdf-vm/asdf/pulls/commits?author=hyperupcall)) to [asdf](https://github.com/asdf-vm/asdf), an extendable, multi-language version manager
 - 25+ contributions ([pull requests](https://github.com/xournalpp/xournalpp/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc), [commits](https://github.com/xournalpp/xournalpp/commits?author=hyperupcall)) to [xournalpp](https://github.com/xournalpp/xournalpp), a stylus-based, note-taking application written with C++ and GTK3
 - 24+ contributions ([pull requests](https://github.com/tj/git-extras/pulls?q=author%3Ahyperupcall+is%3Apr+is%3Amerged+sort%3Aupdated-desc), [commits](https://github.com/tj/git-extras/commits?author=hyperupcall)) to [tj/git-extras](https://github.com/tj/git-extras), a collection of helpful git commands
