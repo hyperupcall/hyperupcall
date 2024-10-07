@@ -3,34 +3,39 @@
 	"type": "module",
 	"scripts": {
 		"start": "node --env-file=.env contributions.js",
-		"format": "prettier --check .",
-		"lint": "eslint ."
+		"format": "hyperupcall-scripts-nodejs format",
+		"lint": "hyperupcall-scripts-nodejs lint"
 	},
 	"devDependencies": {
-		"@eslint-community/eslint-plugin-eslint-comments": "^4.1.0",
-		"@hyperupcall/eslint-config": "^0.11.0",
+		"@eslint-community/eslint-plugin-eslint-comments": "^4.4.0",
+		"@hyperupcall/eslint-config": "^1.0.0",
 		"@hyperupcall/markdownlint-config": "^0.3.2",
-		"@hyperupcall/prettier-config": "^0.7.0",
-		"@tsconfig/node20": "^20.1.2",
-		"eslint": "^8.56.0",
+		"@hyperupcall/prettier-config": "^0.8.0",
+		"@tsconfig/node20": "^20.1.4",
+		"eslint": "^9.12.0",
 		"eslint-config-prettier": "^9.1.0",
-		"eslint-plugin-import": "^2.29.1",
-		"eslint-plugin-markdown": "^3.0.1",
-		"eslint-plugin-mdx": "^2.3.2",
-		"eslint-plugin-n": "^16.6.1",
-		"eslint-plugin-no-unsanitized": "^4.0.2",
-		"eslint-plugin-perfectionist": "^2.5.0",
-		"eslint-plugin-promise": "^6.1.1",
-		"eslint-plugin-regexp": "^2.1.2",
-		"eslint-plugin-security": "^2.1.0",
-		"eslint-plugin-unicorn": "^50.0.1",
-		"markdownlint": "^0.32.1",
-		"prettier": "^3.1.1",
-		"prettier-plugin-pkg": "^0.18.0"
+		"eslint-plugin-import": "^2.31.0",
+		"eslint-plugin-markdown": "^5.1.0",
+		"eslint-plugin-mdx": "^3.1.5",
+		"eslint-plugin-n": "^17.10.3",
+		"eslint-plugin-no-unsanitized": "^4.1.2",
+		"eslint-plugin-perfectionist": "^3.8.0",
+		"eslint-plugin-promise": "^7.1.0",
+		"eslint-plugin-regexp": "^2.6.0",
+		"eslint-plugin-security": "^3.0.1",
+		"eslint-plugin-unicorn": "^56.0.0",
+		"markdownlint": "^0.35.0",
+		"prettier": "^3.3.3",
+		"prettier-plugin-pkg": "^0.18.1",
+		"@hyperupcall/scripts-nodejs": "0.2.1"
 	},
 	"dependencies": {
-		"ansi-escapes": "^6.2.0",
+		"ansi-escapes": "^7.0.0",
 		"lodash": "^4.17.21",
-		"octokit": "^3.1.2"
-	}
+		"octokit": "^4.0.2"
+	},
+	"markdownlint-cli2": {
+		"extends": "./node_modules/@hyperupcall/markdownlint-config/.markdownlint.json"
+	},
+	"prettier": "@hyperupcall/scripts-nodejs/config-prettier.js"
 }
