@@ -14,16 +14,17 @@ Recently, I've been working on:
 
 - [SchemaStore](https://github.com/schemastore/SchemaStore), a collection of JSON schema files
   - [jsonschema-extractor](https://github.com/fox-projects/jsonschema-extractor), a tool to extract JSON schemas from your favorite software
-- [ten](https://github.com/fox-incubating/ten), a personal static site generator
-- [dev](https://github.com/fox-incubating/dev), a personal tool for streamlining development tasks
-- [woof](https://github.com/version-manager/woof), a language agnostic version manager (written in Bash)
+- [ten](https://github.com/fox-incubating/ten), my personal static site generator
+- [dev](https://github.com/fox-incubating/dev), my personal main devtool
+- [launcher](https://github.com/fox-incubating/launcher), my personal application launcher
 - [tj/git-extras](https://github.com/tj/git-extras), a collection of helpful git commands
-- [vscode-assorted-languages](https://github.com/fox-projects/vscode-assorted-languages), a [VSCode extension](https://marketplace.visualstudio.com/items?itemName=EdwinKofler.vscode-assorted-languages) that provides syntax highlighting for syntaxes that are individually rare, but not uncommon in aggregate
+- [vscode-assorted-languages](https://github.com/fox-projects/vscode-assorted-languages), a [VSCode extension](https://marketplace.visualstudio.com/items?itemName=EdwinKofler.vscode-assorted-languages) that provides syntax highlighting for multiple semi-popular languages
 - A Bash package manager called [Basalt](https://github.com/hyperupcall/basalt)
   - [bash-object](https://github.com/bash-bastion/bash-object), a _Bash library_ for managing heterogenous data hierarchies
   - [bash-json](https://github.com/bash-bastion/bash-json), a _Bash library_ for parsing JSON
   - [bash-term](https://github.com/bash-bastion/bash-term), a _Bash library_ for terminal escape sequences
   - [Bake](https://github.com/hyperupcall/bake), a Bash-based make alternative
+- [woof](https://github.com/version-manager/woof), a language agnostic version manager (written in Bash)
 
 Most of my code lives in separate GitHub organizations. Important ones include:
 
@@ -44,4 +45,4 @@ I also like contributing to open source! Some contributions include:
 
 See a more comprehensive list at [contributions.md](./contributions.md)!
 
-Check out my projects if you wish, and thanksies for visiting my profile! ^_^
+Check out my projects if you wish, and thanks~ for visiting my profile! ^_^
