@@ -17,8 +17,8 @@ Recently, I've been working on:
 - Some personal projects:
   - [dev](https://github.com/fox-incubating/dev), my primary devtool
   - [sauerkraut](https://github.com/fox-incubating/sauerkraut), my static site generator
-  - [bratwurst](https://github.com/fox-incubating/bratwurst), my application launcher
-  - [wienerschnitzel](https://github.com/fox-incubating/wienerschnitzel), my dotfile manager (WIP)
+  - [event-horizon](https://github.com/fox-incubating/event-horizon), my application launcher
+  - [antarctica](https://github.com/fox-incubating/antarctica), my dotfile manager (WIP)
   - [apfelstrudel](https://github.com/fox-incubating/apfelstrudel), my default program manager (WIP)
 - [vscode-assorted-languages](https://github.com/fox-projects/vscode-assorted-languages), a [VSCode extension](https://marketplace.visualstudio.com/items?itemName=EdwinKofler.vscode-assorted-languages) that provides syntax highlighting for multiple semi-popular languages
 - Some Bash projects:
