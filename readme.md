@@ -15,12 +15,12 @@ Recently, I've been working on:
 - [SchemaStore](https://github.com/schemastore/SchemaStore), a collection of JSON schema files
 - [tj/git-extras](https://github.com/tj/git-extras), a collection of helpful git commands
 - Some personal projects:
-  - [dev](https://github.com/fox-incubating/dev), my primary devtool
-  - [sauerkraut](https://github.com/fox-incubating/sauerkraut), my static site generator
-  - [event-horizon](https://github.com/fox-incubating/event-horizon), my application launcher
-  - [antarctica](https://github.com/fox-incubating/antarctica), my dotfile manager (WIP)
-  - [apfelstrudel](https://github.com/fox-incubating/apfelstrudel), my default program manager (WIP)
-- [vscode-assorted-languages](https://github.com/fox-projects/vscode-assorted-languages), a [VSCode extension](https://marketplace.visualstudio.com/items?itemName=EdwinKofler.vscode-assorted-languages) that provides syntax highlighting for multiple semi-popular languages
+  - [dev](https://github.com/hyperupcall-experiments/dev), my primary devtool
+  - [sauerkraut](https://github.com/hyperupcall-experiments/sauerkraut), my static site generator
+  - [event-horizon](https://github.com/hyperupcall-experiments/event-horizon), my application launcher
+  - [antarctica](https://github.com/hyperupcall-experiments/antarctica), my dotfile manager (WIP)
+  - [apfelstrudel](https://github.com/hyperupcall-experiments/apfelstrudel), my default program manager (WIP)
+- [vscode-assorted-languages](https://github.com/hyperupcall-projects/vscode-assorted-languages), a [VSCode extension](https://marketplace.visualstudio.com/items?itemName=EdwinKofler.vscode-assorted-languages) that provides syntax highlighting for multiple semi-popular languages
 - Some Bash projects:
   - [Basalt](https://github.com/hyperupcall/basalt) a Bash package manager written in Bash
   - [bash-object](https://github.com/bash-bastion/bash-object), a _Bash library_ for managing heterogenous data hierarchies
@@ -33,11 +33,11 @@ Most of my code lives in separate GitHub organizations. Important ones include:
 
 - [bash-bastion](https://github.com/bash-bastion) holds all my Bash projects
 - [version-manager](https://github.com/version-manager) holds my personal tool/language version manager and associated plugins
-- [fox-projects](https://github.com/fox-projects) holds my projects that are fairly well-developed
-- [fox-incubating](https://github.com/fox-incubating) holds my projects that are in early development
-- [fox-templates](https://github.com/fox-templates) holds my project templates
-- [fox-self](https://github.com/fox-self) holds my personal extensions and configuration presets
-- [fox-archives](https://github.com/fox-archives) holds 100+ projects that I've archived over the years
+- [hyperupcall-projects](https://github.com/hyperupcall-projects) holds my projects that are fairly well-developed
+- [hyperupcall-experiments](https://github.com/hyperupcall-experiments) holds my projects that are in early development
+- [hyperupcall-templates](https://github.com/hyperupcall-templates) holds my project templates
+- [hyperupcall-self](https://github.com/hyperupcall-self) holds my personal extensions and configuration presets
+- [hyperupcall-archives](https://github.com/hyperupcall-archives) holds 100+ projects that I've archived over the years
 
 I also like contributing to open source! Some contributions include:
 
