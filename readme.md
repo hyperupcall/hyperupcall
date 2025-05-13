@@ -37,7 +37,7 @@ Most of my code lives in separate GitHub organizations. Important ones include:
 - [hyperupcall-experiments](https://github.com/hyperupcall-experiments) holds my projects that are in early development
 - [hyperupcall-templates](https://github.com/hyperupcall-templates) holds my project templates
 - [hyperupcall-self](https://github.com/hyperupcall-self) holds my personal extensions and configuration presets
-- [hyperupcall-archives](https://github.com/hyperupcall-archives) holds 100+ projects that I've archived over the years
+- [hyperupcall-archive](https://github.com/hyperupcall-archive) holds 100+ projects that I've archived over the years
 
 I also like contributing to open source! Some contributions include:
 
