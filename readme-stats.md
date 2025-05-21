@@ -48,9 +48,3 @@ It's popular to add statistics to the readme. Here are mine:
 #### [LeetCode Stats](https://github.com/KnlnKS/leetcode-stats)
 
 ![My LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=hyperupcall)]
-
-#### [Widget Box](https://github.com/Jurredr/github-widgetbox)
-
-![GitHub Profile](https://github-widgetbox.vercel.app/api/profile?username=hyperupcall&data=followers,repositories,stars,commits)
-
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?includeNames=true&languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown,vue,react,nuxt,next,django,flutter,electron,bootstrap,gatsby,nest,tailwind,windi,express,svelte,angular,dotnetcore,laravel,ionic,dotnet,babel,p5,tensorflow,jquery,git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier,linux,windows,vscode)
