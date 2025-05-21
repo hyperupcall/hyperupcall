@@ -37,14 +37,6 @@ It's popular to add statistics to the readme. Here are mine:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hyperupcall)
 
-#### [Stack Overflow Badge](https://github.com/claytonjhamilton/stackoverflow-badge)
-
-[![My StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/9367643)](https://stackoverflow.com/users/9367643/hyperupcall)
-
 #### [Stack Overflow Badge](https://github.com/johannchopin/stackoverflow-readme-profile)
 
 [![My StackOverflow](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/9367643?theme=default)](https://stackoverflow.com/users/9367643/hyperupcall)
-
-#### [LeetCode Stats](https://github.com/KnlnKS/leetcode-stats)
-
-![My LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=hyperupcall)]
