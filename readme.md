@@ -15,7 +15,7 @@ Recently, I've been working on:
 - [SchemaStore](https://github.com/schemastore/SchemaStore), a collection of JSON schema files
 - [tj/git-extras](https://github.com/tj/git-extras), a collection of helpful git commands
 - Some personal projects:
-  - [dev](https://github.com/hyperupcall-experiments/dev), my primary devtool
+  - [dev](https://github.com/hyperupcall-projects/dev), my primary devtool
   - [sauerkraut](https://github.com/hyperupcall-experiments/sauerkraut), my static site generator
   - [event-horizon](https://github.com/hyperupcall-experiments/event-horizon), my application launcher
   - [antarctica](https://github.com/hyperupcall-experiments/antarctica), my dotfile manager (WIP)
