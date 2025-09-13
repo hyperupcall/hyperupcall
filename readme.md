@@ -1,12 +1,13 @@
 <!-- markdownlint-disable-next-line no-trailing-punctuation -->
-# 👋 Hellooooo!
+# 👋 Hellooo!
 
 Wanna see something cute?
 
 ![Photograph of a cute red panda walking on a tree branch in a forest](./redpanda3.jpg)
-*Image by [Tonygeo on iStock](https://www.istockphoto.com/photo/red-panda-gm178639400-21106199).*
 
-Red Pandas! This guy be climbing trees _and_ writing code!
+Red Pandas!
+
+*Image by [Tonygeo on iStock](https://www.istockphoto.com/photo/red-panda-gm178639400-21106199).*
 
 ---
 
@@ -21,7 +22,8 @@ Recently, I've been working on:
   - [antarctica](https://github.com/hyperupcall-experiments/antarctica), my dotfile manager (WIP)
   - [apfelstrudel](https://github.com/hyperupcall-experiments/apfelstrudel), my default program manager (WIP)
 - [vscode-assorted-languages](https://github.com/hyperupcall-projects/vscode-assorted-languages), a [VSCode extension](https://marketplace.visualstudio.com/items?itemName=EdwinKofler.vscode-assorted-languages) that provides syntax highlighting for multiple semi-popular languages
-- Some Bash projects:
+
+Previously, I've worked on:
   - [Basalt](https://github.com/hyperupcall/basalt) a Bash package manager written in Bash
   - [bash-object](https://github.com/bash-bastion/bash-object), a _Bash library_ for managing heterogenous data hierarchies
   - [bash-json](https://github.com/bash-bastion/bash-json), a _Bash library_ for parsing JSON
@@ -48,4 +50,4 @@ I also like contributing to open source! Some contributions include:
 
 See a more comprehensive list at [contributions.md](./contributions.md)!
 
-Check out my projects if you wish, and thanks~ for visiting my profile! ^_^
+Check out my projects if you wish, and thanks~ for visiting my profile!
