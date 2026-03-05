@@ -36,10 +36,6 @@ Most of my code lives in separate GitHub organizations. Important ones include:
 - [bash-bastion](https://github.com/bash-bastion) holds all my Bash projects
 - [version-manager](https://github.com/version-manager) holds my personal tool/language version manager and associated plugins
 - [hyperupcall-projects](https://github.com/hyperupcall-projects) holds my projects that are fairly well-developed
-- [hyperupcall-experiments](https://github.com/hyperupcall-experiments) holds my projects that are in early development
-- [hyperupcall-templates](https://github.com/hyperupcall-templates) holds my project templates
-- [hyperupcall-self](https://github.com/hyperupcall-self) holds my personal extensions and configuration presets
-- [hyperupcall-archive](https://github.com/hyperupcall-archive) holds 100+ projects that I've archived over the years
 
 I also like contributing to open source! Some contributions include:
 
