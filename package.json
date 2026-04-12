@@ -1,23 +1,23 @@
 {
-	"private": true,
 	"type": "module",
+	"private": true,
+	"packageManager": "pnpm@10.33.0+sha512.10568bb4a6afb58c9eb3630da90cc9516417abebd3fabbe6739f0ae795728da1491e9db5a544c76ad8eb7570f5c4bb3d6c637b2cb41bfdcdb47fa823c8649319",
 	"scripts": {
-		"start": "node --env-file=.env contributions.js",
 		"format": "hyperupcall-scripts-nodejs format",
-		"lint": "hyperupcall-scripts-nodejs lint"
-	},
-	"devDependencies": {
-		"@tsconfig/node20": "^20.1.4",
-		"@hyperupcall/scripts-nodejs": "0.9.0"
+		"lint": "hyperupcall-scripts-nodejs lint",
+		"start": "node --env-file=.env contributions.js"
 	},
 	"dependencies": {
-		"ansi-escapes": "^7.0.0",
+		"ansi-escapes": "^7.3.0",
 		"lodash": "^4.17.21",
-		"octokit": "^4.0.2"
+		"octokit": "^5.0.5"
+	},
+	"devDependencies": {
+		"@hyperupcall/scripts-nodejs": "0.9.0",
+		"@tsconfig/node24": "^24.0.4"
 	},
 	"markdownlint-cli2": {
 		"extends": "./node_modules/@hyperupcall/markdownlint-config/.markdownlint.json"
 	},
-	"prettier": "@hyperupcall/scripts-nodejs/config-prettier.js",
-	"packageManager": "pnpm@10.33.0+sha512.10568bb4a6afb58c9eb3630da90cc9516417abebd3fabbe6739f0ae795728da1491e9db5a544c76ad8eb7570f5c4bb3d6c637b2cb41bfdcdb47fa823c8649319"
+	"prettier": "@hyperupcall/scripts-nodejs/config-prettier.js"
 }

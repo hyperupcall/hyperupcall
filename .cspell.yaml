@@ -1,7 +1,9 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json
 version: "0.2"
 language: "en"
+enableGlobDot: true
 ignorePaths:
+  - .git/
   - ./data/
   - pnpm-lock.yaml
   - contributions.md
@@ -11,3 +13,5 @@ ignoreWords:
   - apfelstrudel
   - hyperupcall
   - xournalpp
+  - commitizen
+  - davidNicolas-cecs

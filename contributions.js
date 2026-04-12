@@ -4,7 +4,7 @@ import { Octokit } from 'octokit'
 import ansiEscapes from 'ansi-escapes'
 import merge from 'lodash/merge.js'
 
-const octokit = new Octokit({ auth: process.env.GITHUB_AUTH_TOKEN })
+const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN })
 const DATES_FILE = './data/dates.json'
 const PULL_REQUESTS_FILE = './data/pull_requests.json'
 const REPOSITORIES_FILE = './data/repositories.json'
@@ -231,11 +231,14 @@ This list is automatically generated. It is ordered by number of pull requests.\
 	for (const { repo, totalPrs, totalCommits } of repositoryInfo) {
 		let prPart = ''
 		if (totalPrs) {
+			const pullsUrl = new URL(`https://github.com/${repo}/pulls`)
+			pullsUrl.searchParams.set(
+				'q',
+				`author:${config.owner} is:pr is:merged sort:updated-desc`,
+			)
 			prPart = `${totalPrs} [${
 				totalPrs === 1 ? 'pull request' : 'pull requests'
-			}](https://github.com/${repo}/pulls?q=author%3A${
-				config.owner
-			}+is%3Apr+is%3Amerged+sort%3Aupdated-desc)`
+			}](${pullsUrl.toString()})`
 		}
 
 		let commitPart = ''
