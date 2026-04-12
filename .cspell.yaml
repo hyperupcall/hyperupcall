@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json
+version: "0.2"
+language: "en"
+ignorePaths:
+  - ./data/
+  - pnpm-lock.yaml
+  - contributions.md
+ignoreWords:
+  - Tonygeo
+  - Hellooo
+  - apfelstrudel
+  - hyperupcall
+  - xournalpp

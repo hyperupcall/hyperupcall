@@ -1,6 +1,6 @@
 [rules]
-'version-control/readme/must-exist' = 'off'
-'version-control/readme/must-be-uppercase' = 'off'
-'version-control/readme/expected-name-readme' = 'off'
-'version-control/readme/must-have-matching-title' = 'off'
-'version-control/readme/must-have-title-that-includes-project-name' = 'off'
+'version-control/readme/must-exist' = "off"
+'version-control/readme/must-be-uppercase' = "off"
+'version-control/readme/expected-name-readme' = "off"
+'version-control/readme/must-have-matching-title' = "off"
+'version-control/readme/must-have-title-that-includes-project-name' = "off"
