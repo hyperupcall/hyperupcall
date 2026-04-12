@@ -20,7 +20,6 @@ Recently, I've been working on:
   - [sauerkraut](https://github.com/hyperupcall-projects/sauerkraut), my static site generator
   - [event-horizon](https://github.com/hyperupcall-projects/event-horizon), my application launcher
   - [d](https://github.com/hyperupcall-projects/d), my dotfile manager
-  - [apfelstrudel](https://github.com/hyperupcall-projects/apfelstrudel), my default program manager (WIP)
 - [vscode-assorted-languages](https://github.com/hyperupcall-projects/vscode-assorted-languages), a [VSCode extension](https://marketplace.visualstudio.com/items?itemName=EdwinKofler.vscode-assorted-languages) that provides syntax highlighting for multiple semi-popular languages
 
 Previously, I've worked on:
